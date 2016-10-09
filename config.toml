@@ -1,12 +1,12 @@
 baseurl = "http://scribe.webbucket.io/"
 languageCode = "en-us"
-title = "purehugo"
+title = "Scribe"
 theme = "purehugo"
 Paginate = 10
 disqusShortname = "disqus_DCxnLxFGT9"
 
 [params]
-  twitterName = "dragos_plesca"
-  githubName = "dplesca"
-  description = "Demo site for a hugo theme"
-  google_analytics = "UA-xxxxxx-xx"
+  twitterName = "jaybeecave"
+  githubName = "jaybeecave"
+  description = "Brain's overloaded.... uploading here!"
+  google_analytics = "UA-85435316-1"

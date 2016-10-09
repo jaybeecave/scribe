@@ -1,4 +1,4 @@
-# Repo for https://jamescscott.io/
+# Repo for http://scribe.webbucket.io/
 
 This site is setup to be able to be deployed to Dokku
 
@@ -10,10 +10,15 @@ git submodule update --init --recursive
 ```
 
 
-Download the [Hugo](https://gohugo.io/) executable and run:
+Install [Hugo](https://gohugo.io/)
+
+`brew install hugo`  if you have homebrew
+
+ and run:
 
 ```sh
 hugo # to build the website
 
 hugo server #to build and serve the website at localhost:1313
 ```
+
