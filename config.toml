@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Scribe"
 theme = "purehugo"
 Paginate = 10
-disqusShortname = "disqus_DCxnLxFGT9"
+disqusShortname = "webbucket-scribe"
 
 [params]
   twitterName = "jaybeecave"
